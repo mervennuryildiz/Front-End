@@ -1,0 +1,34 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+* {
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+.bg-black {
+    background: black;
+}
+
+.bg-light-orange {
+    background-color: #f2aa28;
+}
+
+.text-color-black {
+    color: black;
+}
+
+.text-color-white {
+    color: white;
+}
+
+.text-color-orange {
+    color: #f2aa28
+}
+
+.text-center {
+
+    text-align: center;
+}
